@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aritra Banerjee
 - 👀 I’m interested in learning to code and contributing in open source projects and helping out people wrt to technology
-- 📫 How to reach me: my personal email address: aritra.mactavish@gmil.com
+- 📫 How to reach me: my personal email address: aritra.mactavish@gmail.com
 -                     my linkedin profile handle: linkedin.com/in/aritra-banerjee-806a05226
 
 <!---
